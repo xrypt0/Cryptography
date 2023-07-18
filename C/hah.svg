@@ -1,7 +1,8 @@
-<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
-   <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
-   <script type="text/javascript">
-      alert(document.location);
-   </script>
-   <?php echo '1' ?>
+<svg onload="alert(1)" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle
+    cx="100"
+    cy="100"
+    r="100"
+    onclick="alert('You have clicked the circle.')" />
+    <iframe sandbox="allow-same-origin allow-scripts allow-popups allow-forms" src="http://usercontent.example.net/getusercontent.cgi?id=12193"></iframe>
 </svg>
