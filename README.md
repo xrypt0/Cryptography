@@ -12,5 +12,3 @@ Cryptography software are the algorithms that make the biggest contribution to t
 ![image](https://user-images.githubusercontent.com/42627045/135728392-9a77f067-4485-47b5-86c2-6c3255e782e8.png)
 
 
-
-![test](https://github.com/xrypt0/Cryptography/assets/42627045/4528b1e9-edd3-46ed-88fd-78dd1998e588)
